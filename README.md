@@ -26,4 +26,12 @@ In one way, the benefit of AI / ML improves our daily lives, but in the other, w
 9. Due to the high threat of cybersecurity, current legislation must also be tough against anyone or any nation trying to use technology as a weapon to unjustly harm or destroy other competitors.
 The public must be more educated to be able to tell the difference between fake news or anything that is false on the Internet than that which is not.
 
-10. 
+10. Machine learning (ML) needs to be sophisticated so that easy penetration by a third party is very difficult, if not impossible, to hack.
+As such, safety research on machine learning and countermeasures to detect manipulation of machine learning systems will become very important.
+
+11. Reliability and security challenges for intelligent systems.
+This field is growing exponentially, so smart systems need to be more and more reliable and secure, which is why it is attracting growing economic investment worldwide.
+Intelligent systems capable of making autonomous decisions are very crucial today.
+
+12. If quantum computers are to be successful, the next generation of computing will definitely change the way we manage different objects and substances.
+It is also important to discuss the purpose of using quantum computers based on their usefulness to make our planet a better place to live.
